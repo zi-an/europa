@@ -1,2 +1,0 @@
-eclipse3.3.2 依赖包
-java.version:1.5.0_22
