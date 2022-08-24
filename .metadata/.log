@@ -1,0 +1,2600 @@
+!SESSION 2022-08-23 12:58:41.440 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.5.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data D:\workspaces\europa
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:41.999
+!MESSAGE NLS unused message: ShowView_selectViewHelp in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.000
+!MESSAGE NLS unused message: ShowView_noDesc in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.000
+!MESSAGE NLS unused message: PerspectivesPreference_perspectiveopen_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.001
+!MESSAGE NLS unused message: PerspectivesPreference_perspectiveopen_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.002
+!MESSAGE NLS unused message: FilteredTree_AccessibleListenerFiltered in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.002
+!MESSAGE NLS unused message: ContentTypes_fileAssociationsEditLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.003
+!MESSAGE NLS unused message: ContentTypes_addDialog_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.003
+!MESSAGE NLS unused message: ContentTypes_addDialog_messageHeader in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.003
+!MESSAGE NLS unused message: ContentTypes_addDialog_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.003
+!MESSAGE NLS unused message: ContentTypes_addDialog_label in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.004
+!MESSAGE NLS unused message: ContentTypes_editDialog_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.004
+!MESSAGE NLS unused message: ContentTypes_editDialog_messageHeader in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.004
+!MESSAGE NLS unused message: ContentTypes_editDialog_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.004
+!MESSAGE NLS unused message: ContentTypes_editDialog_label in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.004
+!MESSAGE NLS unused message: WorkbenchStatusDialog_StatusLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.004
+!MESSAGE NLS unused message: WorkbenchStatusDialog_NotAvailable in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.004
+!MESSAGE NLS unused message: WorkbenchStatusDialog_TimestampNotAvailable in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.005
+!MESSAGE NLS unused message: WorkbenchStatusDialog_ExplanationLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.005
+!MESSAGE NLS unused message: WorkbenchStatusDialog_ActionLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.005
+!MESSAGE NLS unused message: WorkbenchStatusDialog_CopyThisReport in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.005
+!MESSAGE NLS unused message: WorkbenchStatusDialog_StatusWithChildren in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.005
+!MESSAGE NLS unused message: WorkbenchStatusDialog_NoMessageAvailable in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.005
+!MESSAGE NLS unused message: WorkbenchStatusDialog_SeeDetails in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.005
+!MESSAGE NLS unused message: WorkbenchStatusDialog_MultipleProblemsHaveOccured in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.005
+!MESSAGE NLS unused message: StackTraceSupportArea_CausedBy in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.005
+!MESSAGE NLS unused message: StackTraceSupportArea_NoStackTrace in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.006
+!MESSAGE NLS unused message: StackTraceSupportArea_Title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.006
+!MESSAGE NLS unused message: WorkingSetConfigurationBlock_WorkingSetText_name in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.006
+!MESSAGE NLS unused message: WorkingSetConfigurationBlock_SelectWorkingSet_button in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.006
+!MESSAGE NLS unused message: WorkingSetPropertyPage_ReadOnlyWorkingSet_description in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.006
+!MESSAGE NLS unused message: WorkingSetPropertyPage_ReadOnlyWorkingSet_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.006
+!MESSAGE NLS unused message: WorkingSetGroup_EnableWorkingSet_button in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.006
+!MESSAGE NLS unused message: WorkingSetGroup_WorkingSetSelection_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.006
+!MESSAGE NLS unused message: WorkingSetGroup_WorkingSets_group in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.007
+!MESSAGE NLS unused message: ViewsPreference_useColoredLabels in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.007
+!MESSAGE NLS unused message: WorkbenchStatusDialog_ProblemOccurred in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.007
+!MESSAGE NLS unused message: WorkbenchStatusDialog_ProblemOccurredInJob in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.007
+!MESSAGE NLS unused message: WorkbenchPreference_allowInplaceEditingButton in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.007
+!MESSAGE NLS unused message: FilteredPreferenceDialog_Resize in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.007
+!MESSAGE NLS unused message: AboutPluginsDialog_columns in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.007
+!MESSAGE NLS unused message: AboutFeaturesDialog_columns in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.007
+!MESSAGE NLS unused message: ViewMenu in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.007
+!MESSAGE NLS unused message: Workbench_NeedsClose_Title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.008
+!MESSAGE NLS unused message: Workbench_NeedsClose_Message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.008
+!MESSAGE NLS unused message: AbstractWorkingSetManager_updatersActivating in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.008
+!MESSAGE NLS unused message: Shortcuts_shortcutTab in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.008
+!MESSAGE NLS unused message: Shortcuts_selectShortcutsLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.008
+!MESSAGE NLS unused message: Shortcuts_availableMenus in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.008
+!MESSAGE NLS unused message: Shortcuts_availableCategories in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.009
+!MESSAGE NLS unused message: Shortcuts_allShortcuts in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.009
+!MESSAGE NLS unused message: Util_List in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.009
+!MESSAGE NLS unused message: Util_listNull in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.009
+!MESSAGE NLS unused message: Perspective_couldNotBeFound in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.009
+!MESSAGE NLS unused message: OpenBrowserHandler_NoInfoDialogMessage in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.009
+!MESSAGE NLS unused message: OpenBrowserHandler_NoInfoDialogTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.009
+!MESSAGE NLS unused message: AboutDialog_DetailsButton in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.012
+!MESSAGE NLS unused message: AboutFeaturesDialog_SimpleTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.012
+!MESSAGE NLS unused message: InstallationDialog_ShellTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.012
+!MESSAGE NLS unused message: FilteredPreferenceDialog_Key_Scrolling in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.012
+!MESSAGE NLS unused message: WorkbenchStatusDialog_SupportTooltip in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.013
+!MESSAGE NLS unused message: WorkbenchStatusDialog_SupportHyperlink in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.133
+!MESSAGE NLS unused message: CreateLinkedResourceGroup_targetSelectionTitle in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.133
+!MESSAGE NLS unused message: CleanDialog_globalBuildButton in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.133
+!MESSAGE NLS unused message: CleanDialog_buildSelectedProjectsButton in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.133
+!MESSAGE NLS unused message: UnsupportedVM_message in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.133
+!MESSAGE NLS unused message: IDEWorkbenchActivityHelper_jobName in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.134
+!MESSAGE NLS unused message: ProjectLocationSelectionDialog_locationIsSelf in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.134
+!MESSAGE NLS unused message: OpenResourceDialog_openButton_text in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.134
+!MESSAGE NLS unused message: OpenResourceDialog_openWithMenu_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.134
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.134
+!MESSAGE NLS unused message: CleanDialog_cleanSelectedTaskName in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.134
+!MESSAGE NLS unused message: CleanDialog_cleanAllTaskName in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.134
+!MESSAGE NLS unused message: MarkerDeleteHandler_JobTitle in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.134
+!MESSAGE NLS unused message: MarkerDeleteHandler_JobMessageLabel in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.134
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_NumberOfWorkspaces_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.135
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_PromptAtStartup_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.135
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_RecentWorkspacesList_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.135
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_RemoveButton_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.135
+!MESSAGE NLS unused message: IDEWorkbenchAdvisor_preHistoryCompaction in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.135
+!MESSAGE NLS unused message: IDEWorkbenchAdvisor_postHistoryCompaction in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.185
+!MESSAGE NLS unused message: JobInfo_Cancel_Requested in: org.eclipse.ui.internal.progress.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.185
+!MESSAGE NLS unused message: InternalError in: org.eclipse.ui.internal.progress.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.889
+!MESSAGE NLS unused message: CommonViewerSorter_NoContentExtensionForObject in: org.eclipse.ui.internal.navigator.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:42.889
+!MESSAGE NLS unused message: NavigatorContentService_problemSavingPreferences in: org.eclipse.ui.internal.navigator.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.090
+!MESSAGE NLS unused message: filtersDialog_entriesTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.091
+!MESSAGE NLS unused message: filtersDialog_currentWorkingSet in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.091
+!MESSAGE NLS unused message: filtersDialogDeselectedFiltersTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.091
+!MESSAGE NLS unused message: filtersDialogDeselectedFiltersMessage in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.091
+!MESSAGE NLS unused message: filtersDialog_scopeTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.091
+!MESSAGE NLS unused message: filtersDialog_typesTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.091
+!MESSAGE NLS unused message: filtersDialog_completionTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.092
+!MESSAGE NLS unused message: filtersDialog_priorityTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.092
+!MESSAGE NLS unused message: configureFiltersCommand_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.092
+!MESSAGE NLS unused message: configureFiltersDialog_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.092
+!MESSAGE NLS unused message: markCompletedHandler_task in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.092
+!MESSAGE NLS unused message: severity_description in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.092
+!MESSAGE NLS unused message: MarkerFilter_showAllCommand_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.093
+!MESSAGE NLS unused message: MarkerFilter_ConfigureContentsCommand_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.093
+!MESSAGE NLS unused message: AND_Title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.093
+!MESSAGE NLS unused message: OR_Title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.093
+!MESSAGE NLS unused message: MarkerResolutionDialog_NoResolutionsFound in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.093
+!MESSAGE NLS unused message: resolveMarkerAction_computationManyAction in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.093
+!MESSAGE NLS unused message: PasteHandler_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.093
+!MESSAGE NLS unused message: newViewTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.093
+!MESSAGE NLS unused message: ContentGenerator_NoGrouping in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.094
+!MESSAGE NLS unused message: filtersDialog_filterOnSeverity in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.094
+!MESSAGE NLS unused message: NewViewHandler_dialogTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.094
+!MESSAGE NLS unused message: NewViewHandler_dialogMessage in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.094
+!MESSAGE NLS unused message: errorsAndWarningsSummaryBreakdown in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.094
+!MESSAGE NLS unused message: deleteActionConfirmTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.094
+!MESSAGE NLS unused message: deleteActionConfirmMessage in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.094
+!MESSAGE NLS unused message: MarkerPreferences_MoveLeft in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.094
+!MESSAGE NLS unused message: MarkerPreferences_MoveRight in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.094
+!MESSAGE NLS unused message: MarkerPreferences_ColumnGroupTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.094
+!MESSAGE NLS unused message: MarkerPreferences_VisibleColumnsTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.095
+!MESSAGE NLS unused message: MarkerPreferences_HiddenColumnsTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:43.095
+!MESSAGE NLS unused message: MarkerFilter_cloneFilterName in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.261
+!MESSAGE NLS unused message: DropAdapter_canNotDropProjectIntoProject in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.261
+!MESSAGE NLS unused message: CopyAction_Cop_ in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.261
+!MESSAGE NLS unused message: CopyAction_Copy_selected_resource_s_ in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.261
+!MESSAGE NLS unused message: PasteAction_Past_ in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.261
+!MESSAGE NLS unused message: PasteAction_Paste_selected_resource_s_ in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.261
+!MESSAGE NLS unused message: GotoResourceDialog_GoToTitle in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.262
+!MESSAGE NLS unused message: WorkingSetActionProvider_multipleWorkingSets in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.262
+!MESSAGE NLS unused message: ProjectExplorer_toolTip in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.262
+!MESSAGE NLS unused message: ProjectExplorer_toolTip2 in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.262
+!MESSAGE NLS unused message: ProjectExplorer_toolTip3 in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.262
+!MESSAGE NLS unused message: ProjectExplorerPart_workspace in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.262
+!MESSAGE NLS unused message: ProjectExplorerPart_workingSetModel in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.262
+!MESSAGE NLS unused message: ResourceMgmtActionProvider_logTitle in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.333
+!MESSAGE NLS unused message: FileLabelProvider_line_number in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.334
+!MESSAGE NLS unused message: FileSearchPage_open_file_failed in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.334
+!MESSAGE NLS unused message: FileSearchPage_limited_format_files in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.334
+!MESSAGE NLS unused message: FileSearchPage_limited_format_matches in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.334
+!MESSAGE NLS unused message: FileSearchPage_open_file_dialog_title in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.334
+!MESSAGE NLS unused message: ReplaceAction_title_all in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.334
+!MESSAGE NLS unused message: ReplaceAction_description_operation in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.334
+!MESSAGE NLS unused message: ReplaceAction_title_selected in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.334
+!MESSAGE NLS unused message: ReplaceRefactoring_refactoring_name in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.335
+!MESSAGE NLS unused message: ReplaceRefactoring_error_no_matches in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.335
+!MESSAGE NLS unused message: ReplaceRefactoring_error_no_changes in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.335
+!MESSAGE NLS unused message: ReplaceRefactoring_group_label_change_for_file in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.335
+!MESSAGE NLS unused message: ReplaceRefactoring_group_label_match_replace in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.335
+!MESSAGE NLS unused message: ReplaceRefactoring_result_update_name in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.335
+!MESSAGE NLS unused message: ReplaceRefactoring_composite_change_name in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.336
+!MESSAGE NLS unused message: ReplaceRefactoring_error_access_file in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.336
+!MESSAGE NLS unused message: ReplaceRefactoring_error_illegal_search_string in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.336
+!MESSAGE NLS unused message: ReplaceRefactoring_error_no_replace_string in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.336
+!MESSAGE NLS unused message: ReplaceRefactoring_error_accessing_file_buffer in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.336
+!MESSAGE NLS unused message: ReplaceRefactoring_error_match_content_changed in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.336
+!MESSAGE NLS unused message: ReplaceRefactoring_error_replacement_expression in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.336
+!MESSAGE NLS unused message: ReplaceConfigurationPage_replace_label in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.336
+!MESSAGE NLS unused message: ReplaceConfigurationPage_with_label in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.336
+!MESSAGE NLS unused message: ReplaceConfigurationPage_isRegex_label in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.336
+!MESSAGE NLS unused message: ReplaceConfigurationPage_description_many_in_many in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.337
+!MESSAGE NLS unused message: ReplaceConfigurationPage_description_one_in_one in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.337
+!MESSAGE NLS unused message: ReplaceConfigurationPage_description_many_in_one in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.337
+!MESSAGE NLS unused message: PatternConstructor_error_escape_sequence in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.337
+!MESSAGE NLS unused message: PatternConstructor_error_hex_escape_sequence in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.337
+!MESSAGE NLS unused message: PatternConstructor_error_line_delim_position in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.337
+!MESSAGE NLS unused message: PatternConstructor_error_unicode_escape_sequence in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.341
+!MESSAGE NLS unused message: SearchView_empty_search_label in: org.eclipse.search2.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:58:44.341
+!MESSAGE NLS unused message: RetrieverAction_dialog_title in: org.eclipse.search2.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:59:03.240
+!MESSAGE NLS unused message: WizardProjectsImportPage_projectsInWorkspace in: org.eclipse.ui.internal.wizards.datatransfer.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:59:03.240
+!MESSAGE NLS unused message: WizardProjectsImportPage_projectLabel in: org.eclipse.ui.internal.wizards.datatransfer.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:59:03.240
+!MESSAGE NLS unused message: FileExport_damageWarning in: org.eclipse.ui.internal.wizards.datatransfer.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 12:59:03.240
+!MESSAGE NLS unused message: WizardProjectsImportPage_noProjectsToImport in: org.eclipse.ui.internal.wizards.datatransfer.messages
+
+!ENTRY org.eclipse.ui 4 0 2022-08-23 13:01:28.912
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.core.internal.runtime.AdapterManager.getAdapter(AdapterManager.java:274)
+	at org.eclipse.ui.internal.navigator.resources.actions.PropertiesActionProvider$DelegateIAdaptable.getAdapter(PropertiesActionProvider.java:105)
+	at org.eclipse.ui.internal.LegacyResourceSupport.getAdaptedContributorResource(LegacyResourceSupport.java:412)
+	at org.eclipse.ui.internal.ObjectContributorManager.getContributors(ObjectContributorManager.java:371)
+	at org.eclipse.ui.internal.dialogs.PropertyPageContributorManager.contribute(PropertyPageContributorManager.java:125)
+	at org.eclipse.ui.internal.dialogs.PropertyDialog.createDialogOn(PropertyDialog.java:60)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.createDialog(PropertyDialogAction.java:175)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.run(PropertyDialogAction.java:154)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:498)
+	at org.eclipse.ui.actions.RetargetAction.runWithEvent(RetargetAction.java:229)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:546)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:490)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:402)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:938)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3682)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3293)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2389)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2353)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2219)
+	at org.eclipse.ui.internal.Workbench$4.run(Workbench.java:466)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:289)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:461)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:106)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:169)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:106)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:76)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:363)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:176)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:592)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:508)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:447)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1173)
+!SESSION 2022-08-23 13:02:14.670 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.5.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.228
+!MESSAGE NLS unused message: ShowView_selectViewHelp in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.229
+!MESSAGE NLS unused message: ShowView_noDesc in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.229
+!MESSAGE NLS unused message: PerspectivesPreference_perspectiveopen_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.229
+!MESSAGE NLS unused message: PerspectivesPreference_perspectiveopen_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.230
+!MESSAGE NLS unused message: FilteredTree_AccessibleListenerFiltered in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.231
+!MESSAGE NLS unused message: ContentTypes_fileAssociationsEditLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.231
+!MESSAGE NLS unused message: ContentTypes_addDialog_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.231
+!MESSAGE NLS unused message: ContentTypes_addDialog_messageHeader in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.231
+!MESSAGE NLS unused message: ContentTypes_addDialog_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.231
+!MESSAGE NLS unused message: ContentTypes_addDialog_label in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.232
+!MESSAGE NLS unused message: ContentTypes_editDialog_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.232
+!MESSAGE NLS unused message: ContentTypes_editDialog_messageHeader in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.232
+!MESSAGE NLS unused message: ContentTypes_editDialog_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.232
+!MESSAGE NLS unused message: ContentTypes_editDialog_label in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.232
+!MESSAGE NLS unused message: WorkbenchStatusDialog_StatusLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.232
+!MESSAGE NLS unused message: WorkbenchStatusDialog_NotAvailable in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.232
+!MESSAGE NLS unused message: WorkbenchStatusDialog_TimestampNotAvailable in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.232
+!MESSAGE NLS unused message: WorkbenchStatusDialog_ExplanationLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.233
+!MESSAGE NLS unused message: WorkbenchStatusDialog_ActionLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.233
+!MESSAGE NLS unused message: WorkbenchStatusDialog_CopyThisReport in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.233
+!MESSAGE NLS unused message: WorkbenchStatusDialog_StatusWithChildren in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.233
+!MESSAGE NLS unused message: WorkbenchStatusDialog_NoMessageAvailable in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.233
+!MESSAGE NLS unused message: WorkbenchStatusDialog_SeeDetails in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.233
+!MESSAGE NLS unused message: WorkbenchStatusDialog_MultipleProblemsHaveOccured in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.233
+!MESSAGE NLS unused message: StackTraceSupportArea_CausedBy in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.233
+!MESSAGE NLS unused message: StackTraceSupportArea_NoStackTrace in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.233
+!MESSAGE NLS unused message: StackTraceSupportArea_Title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.234
+!MESSAGE NLS unused message: WorkingSetConfigurationBlock_WorkingSetText_name in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.234
+!MESSAGE NLS unused message: WorkingSetConfigurationBlock_SelectWorkingSet_button in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.237
+!MESSAGE NLS unused message: WorkingSetPropertyPage_ReadOnlyWorkingSet_description in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.237
+!MESSAGE NLS unused message: WorkingSetPropertyPage_ReadOnlyWorkingSet_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.237
+!MESSAGE NLS unused message: WorkingSetGroup_EnableWorkingSet_button in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.237
+!MESSAGE NLS unused message: WorkingSetGroup_WorkingSetSelection_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.237
+!MESSAGE NLS unused message: WorkingSetGroup_WorkingSets_group in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.237
+!MESSAGE NLS unused message: ViewsPreference_useColoredLabels in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.237
+!MESSAGE NLS unused message: WorkbenchStatusDialog_ProblemOccurred in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.238
+!MESSAGE NLS unused message: WorkbenchStatusDialog_ProblemOccurredInJob in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.238
+!MESSAGE NLS unused message: WorkbenchPreference_allowInplaceEditingButton in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.238
+!MESSAGE NLS unused message: FilteredPreferenceDialog_Resize in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.238
+!MESSAGE NLS unused message: AboutPluginsDialog_columns in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.238
+!MESSAGE NLS unused message: AboutFeaturesDialog_columns in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.238
+!MESSAGE NLS unused message: ViewMenu in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.238
+!MESSAGE NLS unused message: Workbench_NeedsClose_Title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.238
+!MESSAGE NLS unused message: Workbench_NeedsClose_Message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.238
+!MESSAGE NLS unused message: AbstractWorkingSetManager_updatersActivating in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.239
+!MESSAGE NLS unused message: Shortcuts_shortcutTab in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.239
+!MESSAGE NLS unused message: Shortcuts_selectShortcutsLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.239
+!MESSAGE NLS unused message: Shortcuts_availableMenus in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.239
+!MESSAGE NLS unused message: Shortcuts_availableCategories in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.239
+!MESSAGE NLS unused message: Shortcuts_allShortcuts in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.239
+!MESSAGE NLS unused message: Util_List in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.239
+!MESSAGE NLS unused message: Util_listNull in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.240
+!MESSAGE NLS unused message: Perspective_couldNotBeFound in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.240
+!MESSAGE NLS unused message: OpenBrowserHandler_NoInfoDialogMessage in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.240
+!MESSAGE NLS unused message: OpenBrowserHandler_NoInfoDialogTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.240
+!MESSAGE NLS unused message: AboutDialog_DetailsButton in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.240
+!MESSAGE NLS unused message: AboutFeaturesDialog_SimpleTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.240
+!MESSAGE NLS unused message: InstallationDialog_ShellTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.240
+!MESSAGE NLS unused message: FilteredPreferenceDialog_Key_Scrolling in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.240
+!MESSAGE NLS unused message: WorkbenchStatusDialog_SupportTooltip in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.240
+!MESSAGE NLS unused message: WorkbenchStatusDialog_SupportHyperlink in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.378
+!MESSAGE NLS unused message: CreateLinkedResourceGroup_targetSelectionTitle in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.379
+!MESSAGE NLS unused message: CleanDialog_globalBuildButton in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.379
+!MESSAGE NLS unused message: CleanDialog_buildSelectedProjectsButton in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.379
+!MESSAGE NLS unused message: UnsupportedVM_message in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.379
+!MESSAGE NLS unused message: IDEWorkbenchActivityHelper_jobName in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.379
+!MESSAGE NLS unused message: ProjectLocationSelectionDialog_locationIsSelf in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.379
+!MESSAGE NLS unused message: OpenResourceDialog_openButton_text in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.379
+!MESSAGE NLS unused message: OpenResourceDialog_openWithMenu_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.379
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.380
+!MESSAGE NLS unused message: CleanDialog_cleanSelectedTaskName in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.380
+!MESSAGE NLS unused message: CleanDialog_cleanAllTaskName in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.380
+!MESSAGE NLS unused message: MarkerDeleteHandler_JobTitle in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.380
+!MESSAGE NLS unused message: MarkerDeleteHandler_JobMessageLabel in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.380
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_NumberOfWorkspaces_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.380
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_PromptAtStartup_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.380
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_RecentWorkspacesList_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.380
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_RemoveButton_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.380
+!MESSAGE NLS unused message: IDEWorkbenchAdvisor_preHistoryCompaction in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.381
+!MESSAGE NLS unused message: IDEWorkbenchAdvisor_postHistoryCompaction in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.411
+!MESSAGE NLS unused message: JobInfo_Cancel_Requested in: org.eclipse.ui.internal.progress.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.411
+!MESSAGE NLS unused message: InternalError in: org.eclipse.ui.internal.progress.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.933
+!MESSAGE NLS unused message: CommonViewerSorter_NoContentExtensionForObject in: org.eclipse.ui.internal.navigator.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:15.933
+!MESSAGE NLS unused message: NavigatorContentService_problemSavingPreferences in: org.eclipse.ui.internal.navigator.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.233
+!MESSAGE NLS unused message: filtersDialog_entriesTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.234
+!MESSAGE NLS unused message: filtersDialog_currentWorkingSet in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.234
+!MESSAGE NLS unused message: filtersDialogDeselectedFiltersTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.234
+!MESSAGE NLS unused message: filtersDialogDeselectedFiltersMessage in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.234
+!MESSAGE NLS unused message: filtersDialog_scopeTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.234
+!MESSAGE NLS unused message: filtersDialog_typesTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.234
+!MESSAGE NLS unused message: filtersDialog_completionTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.235
+!MESSAGE NLS unused message: filtersDialog_priorityTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.235
+!MESSAGE NLS unused message: configureFiltersCommand_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.235
+!MESSAGE NLS unused message: configureFiltersDialog_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.235
+!MESSAGE NLS unused message: markCompletedHandler_task in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.235
+!MESSAGE NLS unused message: severity_description in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.235
+!MESSAGE NLS unused message: MarkerFilter_showAllCommand_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.236
+!MESSAGE NLS unused message: MarkerFilter_ConfigureContentsCommand_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.236
+!MESSAGE NLS unused message: AND_Title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.236
+!MESSAGE NLS unused message: OR_Title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.236
+!MESSAGE NLS unused message: MarkerResolutionDialog_NoResolutionsFound in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.236
+!MESSAGE NLS unused message: resolveMarkerAction_computationManyAction in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.236
+!MESSAGE NLS unused message: PasteHandler_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.236
+!MESSAGE NLS unused message: newViewTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.236
+!MESSAGE NLS unused message: ContentGenerator_NoGrouping in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.236
+!MESSAGE NLS unused message: filtersDialog_filterOnSeverity in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.237
+!MESSAGE NLS unused message: NewViewHandler_dialogTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.237
+!MESSAGE NLS unused message: NewViewHandler_dialogMessage in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.237
+!MESSAGE NLS unused message: errorsAndWarningsSummaryBreakdown in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.237
+!MESSAGE NLS unused message: deleteActionConfirmTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.237
+!MESSAGE NLS unused message: deleteActionConfirmMessage in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.237
+!MESSAGE NLS unused message: MarkerPreferences_MoveLeft in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.237
+!MESSAGE NLS unused message: MarkerPreferences_MoveRight in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.237
+!MESSAGE NLS unused message: MarkerPreferences_ColumnGroupTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.237
+!MESSAGE NLS unused message: MarkerPreferences_VisibleColumnsTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.238
+!MESSAGE NLS unused message: MarkerPreferences_HiddenColumnsTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.238
+!MESSAGE NLS unused message: MarkerFilter_cloneFilterName in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.783
+!MESSAGE NLS unused message: DropAdapter_canNotDropProjectIntoProject in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.785
+!MESSAGE NLS unused message: CopyAction_Cop_ in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.785
+!MESSAGE NLS unused message: CopyAction_Copy_selected_resource_s_ in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.785
+!MESSAGE NLS unused message: PasteAction_Past_ in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.785
+!MESSAGE NLS unused message: PasteAction_Paste_selected_resource_s_ in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.785
+!MESSAGE NLS unused message: GotoResourceDialog_GoToTitle in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.785
+!MESSAGE NLS unused message: WorkingSetActionProvider_multipleWorkingSets in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.786
+!MESSAGE NLS unused message: ProjectExplorer_toolTip in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.786
+!MESSAGE NLS unused message: ProjectExplorer_toolTip2 in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.786
+!MESSAGE NLS unused message: ProjectExplorer_toolTip3 in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.786
+!MESSAGE NLS unused message: ProjectExplorerPart_workspace in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.786
+!MESSAGE NLS unused message: ProjectExplorerPart_workingSetModel in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.786
+!MESSAGE NLS unused message: ResourceMgmtActionProvider_logTitle in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.918
+!MESSAGE NLS unused message: FileLabelProvider_line_number in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.918
+!MESSAGE NLS unused message: FileSearchPage_open_file_failed in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.918
+!MESSAGE NLS unused message: FileSearchPage_limited_format_files in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.919
+!MESSAGE NLS unused message: FileSearchPage_limited_format_matches in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.919
+!MESSAGE NLS unused message: FileSearchPage_open_file_dialog_title in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.919
+!MESSAGE NLS unused message: ReplaceAction_title_all in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.919
+!MESSAGE NLS unused message: ReplaceAction_description_operation in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.919
+!MESSAGE NLS unused message: ReplaceAction_title_selected in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.919
+!MESSAGE NLS unused message: ReplaceRefactoring_refactoring_name in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.919
+!MESSAGE NLS unused message: ReplaceRefactoring_error_no_matches in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.919
+!MESSAGE NLS unused message: ReplaceRefactoring_error_no_changes in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.920
+!MESSAGE NLS unused message: ReplaceRefactoring_group_label_change_for_file in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.920
+!MESSAGE NLS unused message: ReplaceRefactoring_group_label_match_replace in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.920
+!MESSAGE NLS unused message: ReplaceRefactoring_result_update_name in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.920
+!MESSAGE NLS unused message: ReplaceRefactoring_composite_change_name in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.920
+!MESSAGE NLS unused message: ReplaceRefactoring_error_access_file in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.920
+!MESSAGE NLS unused message: ReplaceRefactoring_error_illegal_search_string in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.920
+!MESSAGE NLS unused message: ReplaceRefactoring_error_no_replace_string in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.920
+!MESSAGE NLS unused message: ReplaceRefactoring_error_accessing_file_buffer in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.920
+!MESSAGE NLS unused message: ReplaceRefactoring_error_match_content_changed in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.921
+!MESSAGE NLS unused message: ReplaceRefactoring_error_replacement_expression in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.921
+!MESSAGE NLS unused message: ReplaceConfigurationPage_replace_label in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.921
+!MESSAGE NLS unused message: ReplaceConfigurationPage_with_label in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.921
+!MESSAGE NLS unused message: ReplaceConfigurationPage_isRegex_label in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.921
+!MESSAGE NLS unused message: ReplaceConfigurationPage_description_many_in_many in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.921
+!MESSAGE NLS unused message: ReplaceConfigurationPage_description_one_in_one in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.921
+!MESSAGE NLS unused message: ReplaceConfigurationPage_description_many_in_one in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.921
+!MESSAGE NLS unused message: PatternConstructor_error_escape_sequence in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.921
+!MESSAGE NLS unused message: PatternConstructor_error_hex_escape_sequence in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.921
+!MESSAGE NLS unused message: PatternConstructor_error_line_delim_position in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.922
+!MESSAGE NLS unused message: PatternConstructor_error_unicode_escape_sequence in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.925
+!MESSAGE NLS unused message: SearchView_empty_search_label in: org.eclipse.search2.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:16.925
+!MESSAGE NLS unused message: RetrieverAction_dialog_title in: org.eclipse.search2.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:30.947
+!MESSAGE NLS unused message: WizardProjectsImportPage_projectsInWorkspace in: org.eclipse.ui.internal.wizards.datatransfer.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:30.947
+!MESSAGE NLS unused message: WizardProjectsImportPage_projectLabel in: org.eclipse.ui.internal.wizards.datatransfer.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:30.947
+!MESSAGE NLS unused message: FileExport_damageWarning in: org.eclipse.ui.internal.wizards.datatransfer.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:02:30.948
+!MESSAGE NLS unused message: WizardProjectsImportPage_noProjectsToImport in: org.eclipse.ui.internal.wizards.datatransfer.messages
+!SESSION 2022-08-23 13:10:13.908 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.5.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.487
+!MESSAGE NLS unused message: ShowView_selectViewHelp in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.487
+!MESSAGE NLS unused message: ShowView_noDesc in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.488
+!MESSAGE NLS unused message: PerspectivesPreference_perspectiveopen_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.488
+!MESSAGE NLS unused message: PerspectivesPreference_perspectiveopen_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.489
+!MESSAGE NLS unused message: FilteredTree_AccessibleListenerFiltered in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.489
+!MESSAGE NLS unused message: ContentTypes_fileAssociationsEditLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.489
+!MESSAGE NLS unused message: ContentTypes_addDialog_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.489
+!MESSAGE NLS unused message: ContentTypes_addDialog_messageHeader in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.489
+!MESSAGE NLS unused message: ContentTypes_addDialog_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.490
+!MESSAGE NLS unused message: ContentTypes_addDialog_label in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.490
+!MESSAGE NLS unused message: ContentTypes_editDialog_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.493
+!MESSAGE NLS unused message: ContentTypes_editDialog_messageHeader in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.494
+!MESSAGE NLS unused message: ContentTypes_editDialog_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.494
+!MESSAGE NLS unused message: ContentTypes_editDialog_label in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.494
+!MESSAGE NLS unused message: WorkbenchStatusDialog_StatusLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.494
+!MESSAGE NLS unused message: WorkbenchStatusDialog_NotAvailable in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.494
+!MESSAGE NLS unused message: WorkbenchStatusDialog_TimestampNotAvailable in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.494
+!MESSAGE NLS unused message: WorkbenchStatusDialog_ExplanationLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.494
+!MESSAGE NLS unused message: WorkbenchStatusDialog_ActionLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.495
+!MESSAGE NLS unused message: WorkbenchStatusDialog_CopyThisReport in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.495
+!MESSAGE NLS unused message: WorkbenchStatusDialog_StatusWithChildren in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.495
+!MESSAGE NLS unused message: WorkbenchStatusDialog_NoMessageAvailable in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.495
+!MESSAGE NLS unused message: WorkbenchStatusDialog_SeeDetails in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.495
+!MESSAGE NLS unused message: WorkbenchStatusDialog_MultipleProblemsHaveOccured in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.495
+!MESSAGE NLS unused message: StackTraceSupportArea_CausedBy in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.495
+!MESSAGE NLS unused message: StackTraceSupportArea_NoStackTrace in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.495
+!MESSAGE NLS unused message: StackTraceSupportArea_Title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.495
+!MESSAGE NLS unused message: WorkingSetConfigurationBlock_WorkingSetText_name in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.496
+!MESSAGE NLS unused message: WorkingSetConfigurationBlock_SelectWorkingSet_button in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.496
+!MESSAGE NLS unused message: WorkingSetPropertyPage_ReadOnlyWorkingSet_description in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.496
+!MESSAGE NLS unused message: WorkingSetPropertyPage_ReadOnlyWorkingSet_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.496
+!MESSAGE NLS unused message: WorkingSetGroup_EnableWorkingSet_button in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.496
+!MESSAGE NLS unused message: WorkingSetGroup_WorkingSetSelection_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.496
+!MESSAGE NLS unused message: WorkingSetGroup_WorkingSets_group in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.496
+!MESSAGE NLS unused message: ViewsPreference_useColoredLabels in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.496
+!MESSAGE NLS unused message: WorkbenchStatusDialog_ProblemOccurred in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.496
+!MESSAGE NLS unused message: WorkbenchStatusDialog_ProblemOccurredInJob in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.497
+!MESSAGE NLS unused message: WorkbenchPreference_allowInplaceEditingButton in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.497
+!MESSAGE NLS unused message: FilteredPreferenceDialog_Resize in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.497
+!MESSAGE NLS unused message: AboutPluginsDialog_columns in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.497
+!MESSAGE NLS unused message: AboutFeaturesDialog_columns in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.497
+!MESSAGE NLS unused message: ViewMenu in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.497
+!MESSAGE NLS unused message: Workbench_NeedsClose_Title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.497
+!MESSAGE NLS unused message: Workbench_NeedsClose_Message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.497
+!MESSAGE NLS unused message: AbstractWorkingSetManager_updatersActivating in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.498
+!MESSAGE NLS unused message: Shortcuts_shortcutTab in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.498
+!MESSAGE NLS unused message: Shortcuts_selectShortcutsLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.498
+!MESSAGE NLS unused message: Shortcuts_availableMenus in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.498
+!MESSAGE NLS unused message: Shortcuts_availableCategories in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.498
+!MESSAGE NLS unused message: Shortcuts_allShortcuts in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.498
+!MESSAGE NLS unused message: Util_List in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.498
+!MESSAGE NLS unused message: Util_listNull in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.499
+!MESSAGE NLS unused message: Perspective_couldNotBeFound in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.499
+!MESSAGE NLS unused message: OpenBrowserHandler_NoInfoDialogMessage in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.499
+!MESSAGE NLS unused message: OpenBrowserHandler_NoInfoDialogTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.499
+!MESSAGE NLS unused message: AboutDialog_DetailsButton in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.499
+!MESSAGE NLS unused message: AboutFeaturesDialog_SimpleTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.499
+!MESSAGE NLS unused message: InstallationDialog_ShellTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.499
+!MESSAGE NLS unused message: FilteredPreferenceDialog_Key_Scrolling in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.499
+!MESSAGE NLS unused message: WorkbenchStatusDialog_SupportTooltip in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.499
+!MESSAGE NLS unused message: WorkbenchStatusDialog_SupportHyperlink in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.642
+!MESSAGE NLS unused message: CreateLinkedResourceGroup_targetSelectionTitle in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.642
+!MESSAGE NLS unused message: CleanDialog_globalBuildButton in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.642
+!MESSAGE NLS unused message: CleanDialog_buildSelectedProjectsButton in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.642
+!MESSAGE NLS unused message: UnsupportedVM_message in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.642
+!MESSAGE NLS unused message: IDEWorkbenchActivityHelper_jobName in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.643
+!MESSAGE NLS unused message: ProjectLocationSelectionDialog_locationIsSelf in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.643
+!MESSAGE NLS unused message: OpenResourceDialog_openButton_text in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.643
+!MESSAGE NLS unused message: OpenResourceDialog_openWithMenu_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.643
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.643
+!MESSAGE NLS unused message: CleanDialog_cleanSelectedTaskName in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.643
+!MESSAGE NLS unused message: CleanDialog_cleanAllTaskName in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.643
+!MESSAGE NLS unused message: MarkerDeleteHandler_JobTitle in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.644
+!MESSAGE NLS unused message: MarkerDeleteHandler_JobMessageLabel in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.644
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_NumberOfWorkspaces_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.644
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_PromptAtStartup_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.644
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_RecentWorkspacesList_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.644
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_RemoveButton_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.644
+!MESSAGE NLS unused message: IDEWorkbenchAdvisor_preHistoryCompaction in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.644
+!MESSAGE NLS unused message: IDEWorkbenchAdvisor_postHistoryCompaction in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.672
+!MESSAGE NLS unused message: JobInfo_Cancel_Requested in: org.eclipse.ui.internal.progress.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:14.672
+!MESSAGE NLS unused message: InternalError in: org.eclipse.ui.internal.progress.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.200
+!MESSAGE NLS unused message: CommonViewerSorter_NoContentExtensionForObject in: org.eclipse.ui.internal.navigator.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.200
+!MESSAGE NLS unused message: NavigatorContentService_problemSavingPreferences in: org.eclipse.ui.internal.navigator.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.570
+!MESSAGE NLS unused message: filtersDialog_entriesTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.570
+!MESSAGE NLS unused message: filtersDialog_currentWorkingSet in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.570
+!MESSAGE NLS unused message: filtersDialogDeselectedFiltersTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.570
+!MESSAGE NLS unused message: filtersDialogDeselectedFiltersMessage in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.570
+!MESSAGE NLS unused message: filtersDialog_scopeTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.570
+!MESSAGE NLS unused message: filtersDialog_typesTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.571
+!MESSAGE NLS unused message: filtersDialog_completionTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.571
+!MESSAGE NLS unused message: filtersDialog_priorityTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.571
+!MESSAGE NLS unused message: configureFiltersCommand_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.571
+!MESSAGE NLS unused message: configureFiltersDialog_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.571
+!MESSAGE NLS unused message: markCompletedHandler_task in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.571
+!MESSAGE NLS unused message: severity_description in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.572
+!MESSAGE NLS unused message: MarkerFilter_showAllCommand_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.572
+!MESSAGE NLS unused message: MarkerFilter_ConfigureContentsCommand_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.572
+!MESSAGE NLS unused message: AND_Title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.572
+!MESSAGE NLS unused message: OR_Title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.572
+!MESSAGE NLS unused message: MarkerResolutionDialog_NoResolutionsFound in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.572
+!MESSAGE NLS unused message: resolveMarkerAction_computationManyAction in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.572
+!MESSAGE NLS unused message: PasteHandler_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.572
+!MESSAGE NLS unused message: newViewTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.573
+!MESSAGE NLS unused message: ContentGenerator_NoGrouping in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.573
+!MESSAGE NLS unused message: filtersDialog_filterOnSeverity in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.573
+!MESSAGE NLS unused message: NewViewHandler_dialogTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.573
+!MESSAGE NLS unused message: NewViewHandler_dialogMessage in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.573
+!MESSAGE NLS unused message: errorsAndWarningsSummaryBreakdown in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.573
+!MESSAGE NLS unused message: deleteActionConfirmTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.573
+!MESSAGE NLS unused message: deleteActionConfirmMessage in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.573
+!MESSAGE NLS unused message: MarkerPreferences_MoveLeft in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.573
+!MESSAGE NLS unused message: MarkerPreferences_MoveRight in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.574
+!MESSAGE NLS unused message: MarkerPreferences_ColumnGroupTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.574
+!MESSAGE NLS unused message: MarkerPreferences_VisibleColumnsTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.574
+!MESSAGE NLS unused message: MarkerPreferences_HiddenColumnsTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:15.574
+!MESSAGE NLS unused message: MarkerFilter_cloneFilterName in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.117
+!MESSAGE NLS unused message: DropAdapter_canNotDropProjectIntoProject in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.118
+!MESSAGE NLS unused message: CopyAction_Cop_ in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.118
+!MESSAGE NLS unused message: CopyAction_Copy_selected_resource_s_ in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.118
+!MESSAGE NLS unused message: PasteAction_Past_ in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.118
+!MESSAGE NLS unused message: PasteAction_Paste_selected_resource_s_ in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.118
+!MESSAGE NLS unused message: GotoResourceDialog_GoToTitle in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.118
+!MESSAGE NLS unused message: WorkingSetActionProvider_multipleWorkingSets in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.118
+!MESSAGE NLS unused message: ProjectExplorer_toolTip in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.118
+!MESSAGE NLS unused message: ProjectExplorer_toolTip2 in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.119
+!MESSAGE NLS unused message: ProjectExplorer_toolTip3 in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.119
+!MESSAGE NLS unused message: ProjectExplorerPart_workspace in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.119
+!MESSAGE NLS unused message: ProjectExplorerPart_workingSetModel in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.119
+!MESSAGE NLS unused message: ResourceMgmtActionProvider_logTitle in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.270
+!MESSAGE NLS unused message: FileLabelProvider_line_number in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.271
+!MESSAGE NLS unused message: FileSearchPage_open_file_failed in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.271
+!MESSAGE NLS unused message: FileSearchPage_limited_format_files in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.271
+!MESSAGE NLS unused message: FileSearchPage_limited_format_matches in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.271
+!MESSAGE NLS unused message: FileSearchPage_open_file_dialog_title in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.271
+!MESSAGE NLS unused message: ReplaceAction_title_all in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.271
+!MESSAGE NLS unused message: ReplaceAction_description_operation in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.271
+!MESSAGE NLS unused message: ReplaceAction_title_selected in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.274
+!MESSAGE NLS unused message: ReplaceRefactoring_refactoring_name in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.274
+!MESSAGE NLS unused message: ReplaceRefactoring_error_no_matches in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.274
+!MESSAGE NLS unused message: ReplaceRefactoring_error_no_changes in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.274
+!MESSAGE NLS unused message: ReplaceRefactoring_group_label_change_for_file in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.274
+!MESSAGE NLS unused message: ReplaceRefactoring_group_label_match_replace in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.274
+!MESSAGE NLS unused message: ReplaceRefactoring_result_update_name in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.274
+!MESSAGE NLS unused message: ReplaceRefactoring_composite_change_name in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.275
+!MESSAGE NLS unused message: ReplaceRefactoring_error_access_file in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.275
+!MESSAGE NLS unused message: ReplaceRefactoring_error_illegal_search_string in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.275
+!MESSAGE NLS unused message: ReplaceRefactoring_error_no_replace_string in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.275
+!MESSAGE NLS unused message: ReplaceRefactoring_error_accessing_file_buffer in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.275
+!MESSAGE NLS unused message: ReplaceRefactoring_error_match_content_changed in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.275
+!MESSAGE NLS unused message: ReplaceRefactoring_error_replacement_expression in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.275
+!MESSAGE NLS unused message: ReplaceConfigurationPage_replace_label in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.275
+!MESSAGE NLS unused message: ReplaceConfigurationPage_with_label in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.275
+!MESSAGE NLS unused message: ReplaceConfigurationPage_isRegex_label in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.276
+!MESSAGE NLS unused message: ReplaceConfigurationPage_description_many_in_many in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.276
+!MESSAGE NLS unused message: ReplaceConfigurationPage_description_one_in_one in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.276
+!MESSAGE NLS unused message: ReplaceConfigurationPage_description_many_in_one in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.276
+!MESSAGE NLS unused message: PatternConstructor_error_escape_sequence in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.276
+!MESSAGE NLS unused message: PatternConstructor_error_hex_escape_sequence in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.276
+!MESSAGE NLS unused message: PatternConstructor_error_line_delim_position in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.276
+!MESSAGE NLS unused message: PatternConstructor_error_unicode_escape_sequence in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.280
+!MESSAGE NLS unused message: SearchView_empty_search_label in: org.eclipse.search2.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:10:16.280
+!MESSAGE NLS unused message: RetrieverAction_dialog_title in: org.eclipse.search2.internal.ui.SearchMessages
+!SESSION 2022-08-23 13:11:04.507 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.5.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.078
+!MESSAGE NLS unused message: ShowView_selectViewHelp in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.079
+!MESSAGE NLS unused message: ShowView_noDesc in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.079
+!MESSAGE NLS unused message: PerspectivesPreference_perspectiveopen_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.079
+!MESSAGE NLS unused message: PerspectivesPreference_perspectiveopen_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.081
+!MESSAGE NLS unused message: FilteredTree_AccessibleListenerFiltered in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.081
+!MESSAGE NLS unused message: ContentTypes_fileAssociationsEditLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.081
+!MESSAGE NLS unused message: ContentTypes_addDialog_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.081
+!MESSAGE NLS unused message: ContentTypes_addDialog_messageHeader in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.081
+!MESSAGE NLS unused message: ContentTypes_addDialog_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.081
+!MESSAGE NLS unused message: ContentTypes_addDialog_label in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.082
+!MESSAGE NLS unused message: ContentTypes_editDialog_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.085
+!MESSAGE NLS unused message: ContentTypes_editDialog_messageHeader in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.085
+!MESSAGE NLS unused message: ContentTypes_editDialog_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.086
+!MESSAGE NLS unused message: ContentTypes_editDialog_label in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.086
+!MESSAGE NLS unused message: WorkbenchStatusDialog_StatusLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.086
+!MESSAGE NLS unused message: WorkbenchStatusDialog_NotAvailable in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.086
+!MESSAGE NLS unused message: WorkbenchStatusDialog_TimestampNotAvailable in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.086
+!MESSAGE NLS unused message: WorkbenchStatusDialog_ExplanationLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.086
+!MESSAGE NLS unused message: WorkbenchStatusDialog_ActionLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.086
+!MESSAGE NLS unused message: WorkbenchStatusDialog_CopyThisReport in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.087
+!MESSAGE NLS unused message: WorkbenchStatusDialog_StatusWithChildren in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.087
+!MESSAGE NLS unused message: WorkbenchStatusDialog_NoMessageAvailable in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.087
+!MESSAGE NLS unused message: WorkbenchStatusDialog_SeeDetails in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.087
+!MESSAGE NLS unused message: WorkbenchStatusDialog_MultipleProblemsHaveOccured in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.087
+!MESSAGE NLS unused message: StackTraceSupportArea_CausedBy in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.087
+!MESSAGE NLS unused message: StackTraceSupportArea_NoStackTrace in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.087
+!MESSAGE NLS unused message: StackTraceSupportArea_Title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.087
+!MESSAGE NLS unused message: WorkingSetConfigurationBlock_WorkingSetText_name in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.088
+!MESSAGE NLS unused message: WorkingSetConfigurationBlock_SelectWorkingSet_button in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.088
+!MESSAGE NLS unused message: WorkingSetPropertyPage_ReadOnlyWorkingSet_description in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.088
+!MESSAGE NLS unused message: WorkingSetPropertyPage_ReadOnlyWorkingSet_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.088
+!MESSAGE NLS unused message: WorkingSetGroup_EnableWorkingSet_button in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.088
+!MESSAGE NLS unused message: WorkingSetGroup_WorkingSetSelection_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.088
+!MESSAGE NLS unused message: WorkingSetGroup_WorkingSets_group in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.088
+!MESSAGE NLS unused message: ViewsPreference_useColoredLabels in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.088
+!MESSAGE NLS unused message: WorkbenchStatusDialog_ProblemOccurred in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.088
+!MESSAGE NLS unused message: WorkbenchStatusDialog_ProblemOccurredInJob in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.089
+!MESSAGE NLS unused message: WorkbenchPreference_allowInplaceEditingButton in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.089
+!MESSAGE NLS unused message: FilteredPreferenceDialog_Resize in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.089
+!MESSAGE NLS unused message: AboutPluginsDialog_columns in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.089
+!MESSAGE NLS unused message: AboutFeaturesDialog_columns in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.089
+!MESSAGE NLS unused message: ViewMenu in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.089
+!MESSAGE NLS unused message: Workbench_NeedsClose_Title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.089
+!MESSAGE NLS unused message: Workbench_NeedsClose_Message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.089
+!MESSAGE NLS unused message: AbstractWorkingSetManager_updatersActivating in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.090
+!MESSAGE NLS unused message: Shortcuts_shortcutTab in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.090
+!MESSAGE NLS unused message: Shortcuts_selectShortcutsLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.090
+!MESSAGE NLS unused message: Shortcuts_availableMenus in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.090
+!MESSAGE NLS unused message: Shortcuts_availableCategories in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.090
+!MESSAGE NLS unused message: Shortcuts_allShortcuts in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.090
+!MESSAGE NLS unused message: Util_List in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.090
+!MESSAGE NLS unused message: Util_listNull in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.091
+!MESSAGE NLS unused message: Perspective_couldNotBeFound in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.091
+!MESSAGE NLS unused message: OpenBrowserHandler_NoInfoDialogMessage in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.091
+!MESSAGE NLS unused message: OpenBrowserHandler_NoInfoDialogTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.091
+!MESSAGE NLS unused message: AboutDialog_DetailsButton in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.091
+!MESSAGE NLS unused message: AboutFeaturesDialog_SimpleTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.091
+!MESSAGE NLS unused message: InstallationDialog_ShellTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.091
+!MESSAGE NLS unused message: FilteredPreferenceDialog_Key_Scrolling in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.091
+!MESSAGE NLS unused message: WorkbenchStatusDialog_SupportTooltip in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.091
+!MESSAGE NLS unused message: WorkbenchStatusDialog_SupportHyperlink in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.232
+!MESSAGE NLS unused message: CreateLinkedResourceGroup_targetSelectionTitle in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.233
+!MESSAGE NLS unused message: CleanDialog_globalBuildButton in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.233
+!MESSAGE NLS unused message: CleanDialog_buildSelectedProjectsButton in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.233
+!MESSAGE NLS unused message: UnsupportedVM_message in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.233
+!MESSAGE NLS unused message: IDEWorkbenchActivityHelper_jobName in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.233
+!MESSAGE NLS unused message: ProjectLocationSelectionDialog_locationIsSelf in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.233
+!MESSAGE NLS unused message: OpenResourceDialog_openButton_text in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.234
+!MESSAGE NLS unused message: OpenResourceDialog_openWithMenu_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.234
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.234
+!MESSAGE NLS unused message: CleanDialog_cleanSelectedTaskName in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.234
+!MESSAGE NLS unused message: CleanDialog_cleanAllTaskName in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.234
+!MESSAGE NLS unused message: MarkerDeleteHandler_JobTitle in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.234
+!MESSAGE NLS unused message: MarkerDeleteHandler_JobMessageLabel in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.234
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_NumberOfWorkspaces_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.235
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_PromptAtStartup_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.235
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_RecentWorkspacesList_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.235
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_RemoveButton_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.235
+!MESSAGE NLS unused message: IDEWorkbenchAdvisor_preHistoryCompaction in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.235
+!MESSAGE NLS unused message: IDEWorkbenchAdvisor_postHistoryCompaction in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.262
+!MESSAGE NLS unused message: JobInfo_Cancel_Requested in: org.eclipse.ui.internal.progress.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.263
+!MESSAGE NLS unused message: InternalError in: org.eclipse.ui.internal.progress.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.790
+!MESSAGE NLS unused message: CommonViewerSorter_NoContentExtensionForObject in: org.eclipse.ui.internal.navigator.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:05.790
+!MESSAGE NLS unused message: NavigatorContentService_problemSavingPreferences in: org.eclipse.ui.internal.navigator.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.160
+!MESSAGE NLS unused message: filtersDialog_entriesTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.160
+!MESSAGE NLS unused message: filtersDialog_currentWorkingSet in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.160
+!MESSAGE NLS unused message: filtersDialogDeselectedFiltersTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.161
+!MESSAGE NLS unused message: filtersDialogDeselectedFiltersMessage in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.161
+!MESSAGE NLS unused message: filtersDialog_scopeTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.161
+!MESSAGE NLS unused message: filtersDialog_typesTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.161
+!MESSAGE NLS unused message: filtersDialog_completionTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.161
+!MESSAGE NLS unused message: filtersDialog_priorityTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.161
+!MESSAGE NLS unused message: configureFiltersCommand_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.161
+!MESSAGE NLS unused message: configureFiltersDialog_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.162
+!MESSAGE NLS unused message: markCompletedHandler_task in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.162
+!MESSAGE NLS unused message: severity_description in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.162
+!MESSAGE NLS unused message: MarkerFilter_showAllCommand_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.162
+!MESSAGE NLS unused message: MarkerFilter_ConfigureContentsCommand_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.162
+!MESSAGE NLS unused message: AND_Title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.163
+!MESSAGE NLS unused message: OR_Title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.163
+!MESSAGE NLS unused message: MarkerResolutionDialog_NoResolutionsFound in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.163
+!MESSAGE NLS unused message: resolveMarkerAction_computationManyAction in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.163
+!MESSAGE NLS unused message: PasteHandler_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.163
+!MESSAGE NLS unused message: newViewTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.163
+!MESSAGE NLS unused message: ContentGenerator_NoGrouping in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.163
+!MESSAGE NLS unused message: filtersDialog_filterOnSeverity in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.164
+!MESSAGE NLS unused message: NewViewHandler_dialogTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.164
+!MESSAGE NLS unused message: NewViewHandler_dialogMessage in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.164
+!MESSAGE NLS unused message: errorsAndWarningsSummaryBreakdown in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.164
+!MESSAGE NLS unused message: deleteActionConfirmTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.164
+!MESSAGE NLS unused message: deleteActionConfirmMessage in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.164
+!MESSAGE NLS unused message: MarkerPreferences_MoveLeft in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.164
+!MESSAGE NLS unused message: MarkerPreferences_MoveRight in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.164
+!MESSAGE NLS unused message: MarkerPreferences_ColumnGroupTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.164
+!MESSAGE NLS unused message: MarkerPreferences_VisibleColumnsTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.164
+!MESSAGE NLS unused message: MarkerPreferences_HiddenColumnsTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.165
+!MESSAGE NLS unused message: MarkerFilter_cloneFilterName in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.706
+!MESSAGE NLS unused message: DropAdapter_canNotDropProjectIntoProject in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.706
+!MESSAGE NLS unused message: CopyAction_Cop_ in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.706
+!MESSAGE NLS unused message: CopyAction_Copy_selected_resource_s_ in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.706
+!MESSAGE NLS unused message: PasteAction_Past_ in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.706
+!MESSAGE NLS unused message: PasteAction_Paste_selected_resource_s_ in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.707
+!MESSAGE NLS unused message: GotoResourceDialog_GoToTitle in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.707
+!MESSAGE NLS unused message: WorkingSetActionProvider_multipleWorkingSets in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.707
+!MESSAGE NLS unused message: ProjectExplorer_toolTip in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.707
+!MESSAGE NLS unused message: ProjectExplorer_toolTip2 in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.707
+!MESSAGE NLS unused message: ProjectExplorer_toolTip3 in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.766
+!MESSAGE NLS unused message: ProjectExplorerPart_workspace in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.767
+!MESSAGE NLS unused message: ProjectExplorerPart_workingSetModel in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.767
+!MESSAGE NLS unused message: ResourceMgmtActionProvider_logTitle in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.860
+!MESSAGE NLS unused message: FileLabelProvider_line_number in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.860
+!MESSAGE NLS unused message: FileSearchPage_open_file_failed in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.860
+!MESSAGE NLS unused message: FileSearchPage_limited_format_files in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.860
+!MESSAGE NLS unused message: FileSearchPage_limited_format_matches in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.860
+!MESSAGE NLS unused message: FileSearchPage_open_file_dialog_title in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.860
+!MESSAGE NLS unused message: ReplaceAction_title_all in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.860
+!MESSAGE NLS unused message: ReplaceAction_description_operation in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.860
+!MESSAGE NLS unused message: ReplaceAction_title_selected in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.861
+!MESSAGE NLS unused message: ReplaceRefactoring_refactoring_name in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.861
+!MESSAGE NLS unused message: ReplaceRefactoring_error_no_matches in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.861
+!MESSAGE NLS unused message: ReplaceRefactoring_error_no_changes in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.861
+!MESSAGE NLS unused message: ReplaceRefactoring_group_label_change_for_file in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.861
+!MESSAGE NLS unused message: ReplaceRefactoring_group_label_match_replace in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.861
+!MESSAGE NLS unused message: ReplaceRefactoring_result_update_name in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.861
+!MESSAGE NLS unused message: ReplaceRefactoring_composite_change_name in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.861
+!MESSAGE NLS unused message: ReplaceRefactoring_error_access_file in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.861
+!MESSAGE NLS unused message: ReplaceRefactoring_error_illegal_search_string in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.862
+!MESSAGE NLS unused message: ReplaceRefactoring_error_no_replace_string in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.862
+!MESSAGE NLS unused message: ReplaceRefactoring_error_accessing_file_buffer in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.862
+!MESSAGE NLS unused message: ReplaceRefactoring_error_match_content_changed in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.862
+!MESSAGE NLS unused message: ReplaceRefactoring_error_replacement_expression in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.862
+!MESSAGE NLS unused message: ReplaceConfigurationPage_replace_label in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.862
+!MESSAGE NLS unused message: ReplaceConfigurationPage_with_label in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.862
+!MESSAGE NLS unused message: ReplaceConfigurationPage_isRegex_label in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.862
+!MESSAGE NLS unused message: ReplaceConfigurationPage_description_many_in_many in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.862
+!MESSAGE NLS unused message: ReplaceConfigurationPage_description_one_in_one in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.862
+!MESSAGE NLS unused message: ReplaceConfigurationPage_description_many_in_one in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.863
+!MESSAGE NLS unused message: PatternConstructor_error_escape_sequence in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.863
+!MESSAGE NLS unused message: PatternConstructor_error_hex_escape_sequence in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.863
+!MESSAGE NLS unused message: PatternConstructor_error_line_delim_position in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.863
+!MESSAGE NLS unused message: PatternConstructor_error_unicode_escape_sequence in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.869
+!MESSAGE NLS unused message: SearchView_empty_search_label in: org.eclipse.search2.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-23 13:11:06.870
+!MESSAGE NLS unused message: RetrieverAction_dialog_title in: org.eclipse.search2.internal.ui.SearchMessages
+!SESSION 2022-08-24 08:28:58.631 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.5.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.105
+!MESSAGE NLS unused message: ShowView_selectViewHelp in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.106
+!MESSAGE NLS unused message: ShowView_noDesc in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.107
+!MESSAGE NLS unused message: PerspectivesPreference_perspectiveopen_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.107
+!MESSAGE NLS unused message: PerspectivesPreference_perspectiveopen_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.108
+!MESSAGE NLS unused message: FilteredTree_AccessibleListenerFiltered in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.108
+!MESSAGE NLS unused message: ContentTypes_fileAssociationsEditLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.108
+!MESSAGE NLS unused message: ContentTypes_addDialog_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.109
+!MESSAGE NLS unused message: ContentTypes_addDialog_messageHeader in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.109
+!MESSAGE NLS unused message: ContentTypes_addDialog_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.109
+!MESSAGE NLS unused message: ContentTypes_addDialog_label in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.109
+!MESSAGE NLS unused message: ContentTypes_editDialog_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.109
+!MESSAGE NLS unused message: ContentTypes_editDialog_messageHeader in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.110
+!MESSAGE NLS unused message: ContentTypes_editDialog_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.110
+!MESSAGE NLS unused message: ContentTypes_editDialog_label in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.113
+!MESSAGE NLS unused message: WorkbenchStatusDialog_StatusLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.113
+!MESSAGE NLS unused message: WorkbenchStatusDialog_NotAvailable in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.113
+!MESSAGE NLS unused message: WorkbenchStatusDialog_TimestampNotAvailable in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.113
+!MESSAGE NLS unused message: WorkbenchStatusDialog_ExplanationLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.114
+!MESSAGE NLS unused message: WorkbenchStatusDialog_ActionLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.114
+!MESSAGE NLS unused message: WorkbenchStatusDialog_CopyThisReport in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.114
+!MESSAGE NLS unused message: WorkbenchStatusDialog_StatusWithChildren in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.114
+!MESSAGE NLS unused message: WorkbenchStatusDialog_NoMessageAvailable in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.114
+!MESSAGE NLS unused message: WorkbenchStatusDialog_SeeDetails in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.114
+!MESSAGE NLS unused message: WorkbenchStatusDialog_MultipleProblemsHaveOccured in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.114
+!MESSAGE NLS unused message: StackTraceSupportArea_CausedBy in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.114
+!MESSAGE NLS unused message: StackTraceSupportArea_NoStackTrace in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.115
+!MESSAGE NLS unused message: StackTraceSupportArea_Title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.115
+!MESSAGE NLS unused message: WorkingSetConfigurationBlock_WorkingSetText_name in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.115
+!MESSAGE NLS unused message: WorkingSetConfigurationBlock_SelectWorkingSet_button in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.115
+!MESSAGE NLS unused message: WorkingSetPropertyPage_ReadOnlyWorkingSet_description in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.115
+!MESSAGE NLS unused message: WorkingSetPropertyPage_ReadOnlyWorkingSet_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.115
+!MESSAGE NLS unused message: WorkingSetGroup_EnableWorkingSet_button in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.115
+!MESSAGE NLS unused message: WorkingSetGroup_WorkingSetSelection_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.115
+!MESSAGE NLS unused message: WorkingSetGroup_WorkingSets_group in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.115
+!MESSAGE NLS unused message: ViewsPreference_useColoredLabels in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.116
+!MESSAGE NLS unused message: WorkbenchStatusDialog_ProblemOccurred in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.116
+!MESSAGE NLS unused message: WorkbenchStatusDialog_ProblemOccurredInJob in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.116
+!MESSAGE NLS unused message: WorkbenchPreference_allowInplaceEditingButton in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.116
+!MESSAGE NLS unused message: FilteredPreferenceDialog_Resize in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.116
+!MESSAGE NLS unused message: AboutPluginsDialog_columns in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.116
+!MESSAGE NLS unused message: AboutFeaturesDialog_columns in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.116
+!MESSAGE NLS unused message: ViewMenu in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.116
+!MESSAGE NLS unused message: Workbench_NeedsClose_Title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.116
+!MESSAGE NLS unused message: Workbench_NeedsClose_Message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.116
+!MESSAGE NLS unused message: AbstractWorkingSetManager_updatersActivating in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.117
+!MESSAGE NLS unused message: Shortcuts_shortcutTab in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.117
+!MESSAGE NLS unused message: Shortcuts_selectShortcutsLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.117
+!MESSAGE NLS unused message: Shortcuts_availableMenus in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.117
+!MESSAGE NLS unused message: Shortcuts_availableCategories in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.117
+!MESSAGE NLS unused message: Shortcuts_allShortcuts in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.117
+!MESSAGE NLS unused message: Util_List in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.118
+!MESSAGE NLS unused message: Util_listNull in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.118
+!MESSAGE NLS unused message: Perspective_couldNotBeFound in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.118
+!MESSAGE NLS unused message: OpenBrowserHandler_NoInfoDialogMessage in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.118
+!MESSAGE NLS unused message: OpenBrowserHandler_NoInfoDialogTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.118
+!MESSAGE NLS unused message: AboutDialog_DetailsButton in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.118
+!MESSAGE NLS unused message: AboutFeaturesDialog_SimpleTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.118
+!MESSAGE NLS unused message: InstallationDialog_ShellTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.118
+!MESSAGE NLS unused message: FilteredPreferenceDialog_Key_Scrolling in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.118
+!MESSAGE NLS unused message: WorkbenchStatusDialog_SupportTooltip in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.119
+!MESSAGE NLS unused message: WorkbenchStatusDialog_SupportHyperlink in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.314
+!MESSAGE NLS unused message: CreateLinkedResourceGroup_targetSelectionTitle in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.314
+!MESSAGE NLS unused message: CleanDialog_globalBuildButton in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.314
+!MESSAGE NLS unused message: CleanDialog_buildSelectedProjectsButton in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.314
+!MESSAGE NLS unused message: UnsupportedVM_message in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.314
+!MESSAGE NLS unused message: IDEWorkbenchActivityHelper_jobName in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.315
+!MESSAGE NLS unused message: ProjectLocationSelectionDialog_locationIsSelf in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.315
+!MESSAGE NLS unused message: OpenResourceDialog_openButton_text in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.315
+!MESSAGE NLS unused message: OpenResourceDialog_openWithMenu_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.315
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.315
+!MESSAGE NLS unused message: CleanDialog_cleanSelectedTaskName in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.315
+!MESSAGE NLS unused message: CleanDialog_cleanAllTaskName in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.315
+!MESSAGE NLS unused message: MarkerDeleteHandler_JobTitle in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.315
+!MESSAGE NLS unused message: MarkerDeleteHandler_JobMessageLabel in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.315
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_NumberOfWorkspaces_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.315
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_PromptAtStartup_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.316
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_RecentWorkspacesList_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.316
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_RemoveButton_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.316
+!MESSAGE NLS unused message: IDEWorkbenchAdvisor_preHistoryCompaction in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.316
+!MESSAGE NLS unused message: IDEWorkbenchAdvisor_postHistoryCompaction in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.344
+!MESSAGE NLS unused message: JobInfo_Cancel_Requested in: org.eclipse.ui.internal.progress.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:00.344
+!MESSAGE NLS unused message: InternalError in: org.eclipse.ui.internal.progress.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:03.433
+!MESSAGE NLS unused message: CommonViewerSorter_NoContentExtensionForObject in: org.eclipse.ui.internal.navigator.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:03.433
+!MESSAGE NLS unused message: NavigatorContentService_problemSavingPreferences in: org.eclipse.ui.internal.navigator.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:05.483
+!MESSAGE NLS unused message: DropAdapter_canNotDropProjectIntoProject in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:05.483
+!MESSAGE NLS unused message: CopyAction_Cop_ in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:05.483
+!MESSAGE NLS unused message: CopyAction_Copy_selected_resource_s_ in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:05.483
+!MESSAGE NLS unused message: PasteAction_Past_ in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:05.483
+!MESSAGE NLS unused message: PasteAction_Paste_selected_resource_s_ in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:05.483
+!MESSAGE NLS unused message: GotoResourceDialog_GoToTitle in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:05.483
+!MESSAGE NLS unused message: WorkingSetActionProvider_multipleWorkingSets in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:05.484
+!MESSAGE NLS unused message: ProjectExplorer_toolTip in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:05.484
+!MESSAGE NLS unused message: ProjectExplorer_toolTip2 in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:05.484
+!MESSAGE NLS unused message: ProjectExplorer_toolTip3 in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:05.484
+!MESSAGE NLS unused message: ProjectExplorerPart_workspace in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:05.484
+!MESSAGE NLS unused message: ProjectExplorerPart_workingSetModel in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:05.484
+!MESSAGE NLS unused message: ResourceMgmtActionProvider_logTitle in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.205
+!MESSAGE NLS unused message: FileLabelProvider_line_number in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.205
+!MESSAGE NLS unused message: FileSearchPage_open_file_failed in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.205
+!MESSAGE NLS unused message: FileSearchPage_limited_format_files in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.205
+!MESSAGE NLS unused message: FileSearchPage_limited_format_matches in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.205
+!MESSAGE NLS unused message: FileSearchPage_open_file_dialog_title in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.205
+!MESSAGE NLS unused message: ReplaceAction_title_all in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.206
+!MESSAGE NLS unused message: ReplaceAction_description_operation in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.206
+!MESSAGE NLS unused message: ReplaceAction_title_selected in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.206
+!MESSAGE NLS unused message: ReplaceRefactoring_refactoring_name in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.206
+!MESSAGE NLS unused message: ReplaceRefactoring_error_no_matches in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.206
+!MESSAGE NLS unused message: ReplaceRefactoring_error_no_changes in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.206
+!MESSAGE NLS unused message: ReplaceRefactoring_group_label_change_for_file in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.206
+!MESSAGE NLS unused message: ReplaceRefactoring_group_label_match_replace in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.206
+!MESSAGE NLS unused message: ReplaceRefactoring_result_update_name in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.206
+!MESSAGE NLS unused message: ReplaceRefactoring_composite_change_name in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.207
+!MESSAGE NLS unused message: ReplaceRefactoring_error_access_file in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.207
+!MESSAGE NLS unused message: ReplaceRefactoring_error_illegal_search_string in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.207
+!MESSAGE NLS unused message: ReplaceRefactoring_error_no_replace_string in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.207
+!MESSAGE NLS unused message: ReplaceRefactoring_error_accessing_file_buffer in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.207
+!MESSAGE NLS unused message: ReplaceRefactoring_error_match_content_changed in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.207
+!MESSAGE NLS unused message: ReplaceRefactoring_error_replacement_expression in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.207
+!MESSAGE NLS unused message: ReplaceConfigurationPage_replace_label in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.207
+!MESSAGE NLS unused message: ReplaceConfigurationPage_with_label in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.207
+!MESSAGE NLS unused message: ReplaceConfigurationPage_isRegex_label in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.208
+!MESSAGE NLS unused message: ReplaceConfigurationPage_description_many_in_many in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.208
+!MESSAGE NLS unused message: ReplaceConfigurationPage_description_one_in_one in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.208
+!MESSAGE NLS unused message: ReplaceConfigurationPage_description_many_in_one in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.208
+!MESSAGE NLS unused message: PatternConstructor_error_escape_sequence in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.208
+!MESSAGE NLS unused message: PatternConstructor_error_hex_escape_sequence in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.208
+!MESSAGE NLS unused message: PatternConstructor_error_line_delim_position in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.208
+!MESSAGE NLS unused message: PatternConstructor_error_unicode_escape_sequence in: org.eclipse.search.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.212
+!MESSAGE NLS unused message: SearchView_empty_search_label in: org.eclipse.search2.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:29:06.213
+!MESSAGE NLS unused message: RetrieverAction_dialog_title in: org.eclipse.search2.internal.ui.SearchMessages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.394
+!MESSAGE NLS unused message: filtersDialog_entriesTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.394
+!MESSAGE NLS unused message: filtersDialog_currentWorkingSet in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.394
+!MESSAGE NLS unused message: filtersDialogDeselectedFiltersTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.395
+!MESSAGE NLS unused message: filtersDialogDeselectedFiltersMessage in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.397
+!MESSAGE NLS unused message: filtersDialog_scopeTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.397
+!MESSAGE NLS unused message: filtersDialog_typesTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.398
+!MESSAGE NLS unused message: filtersDialog_completionTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.398
+!MESSAGE NLS unused message: filtersDialog_priorityTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.398
+!MESSAGE NLS unused message: configureFiltersCommand_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.398
+!MESSAGE NLS unused message: configureFiltersDialog_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.398
+!MESSAGE NLS unused message: markCompletedHandler_task in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.398
+!MESSAGE NLS unused message: severity_description in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.398
+!MESSAGE NLS unused message: MarkerFilter_showAllCommand_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.398
+!MESSAGE NLS unused message: MarkerFilter_ConfigureContentsCommand_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.398
+!MESSAGE NLS unused message: AND_Title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.399
+!MESSAGE NLS unused message: OR_Title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.399
+!MESSAGE NLS unused message: MarkerResolutionDialog_NoResolutionsFound in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.399
+!MESSAGE NLS unused message: resolveMarkerAction_computationManyAction in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.399
+!MESSAGE NLS unused message: PasteHandler_title in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.399
+!MESSAGE NLS unused message: newViewTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.399
+!MESSAGE NLS unused message: ContentGenerator_NoGrouping in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.399
+!MESSAGE NLS unused message: filtersDialog_filterOnSeverity in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.399
+!MESSAGE NLS unused message: NewViewHandler_dialogTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.400
+!MESSAGE NLS unused message: NewViewHandler_dialogMessage in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.400
+!MESSAGE NLS unused message: errorsAndWarningsSummaryBreakdown in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.400
+!MESSAGE NLS unused message: deleteActionConfirmTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.400
+!MESSAGE NLS unused message: deleteActionConfirmMessage in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.400
+!MESSAGE NLS unused message: MarkerPreferences_MoveLeft in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.400
+!MESSAGE NLS unused message: MarkerPreferences_MoveRight in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.400
+!MESSAGE NLS unused message: MarkerPreferences_ColumnGroupTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.400
+!MESSAGE NLS unused message: MarkerPreferences_VisibleColumnsTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.400
+!MESSAGE NLS unused message: MarkerPreferences_HiddenColumnsTitle in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-08-24 08:31:27.401
+!MESSAGE NLS unused message: MarkerFilter_cloneFilterName in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.ui 4 0 2022-08-24 08:48:00.445
+!MESSAGE Unable to create editor ID org.eclipse.jdt.ui.ClassFileEditor: Unmatched braces in the pattern.
+!STACK 0
+java.lang.IllegalArgumentException: Unmatched braces in the pattern.
+	at java.text.MessageFormat.applyPattern(MessageFormat.java:468)
+	at java.text.MessageFormat.<init>(MessageFormat.java:350)
+	at java.text.MessageFormat.format(MessageFormat.java:803)
+	at org.eclipse.jdt.internal.core.util.Messages.bind(Messages.java:388)
+	at org.eclipse.jdt.internal.core.util.Messages.bind(Messages.java:354)
+	at org.eclipse.jdt.internal.core.util.Disassembler.disassemble(Disassembler.java:883)
+	at org.eclipse.jdt.internal.core.util.Disassembler.disassemble(Disassembler.java:290)
+	at org.eclipse.jdt.internal.ui.javaeditor.ClassFileEditor$SourceAttachmentForm.updateCodeView(ClassFileEditor.java:403)
+	at org.eclipse.jdt.internal.ui.javaeditor.ClassFileEditor$SourceAttachmentForm.createControl(ClassFileEditor.java:207)
+	at org.eclipse.jdt.internal.ui.javaeditor.ClassFileEditor.verifyInput(ClassFileEditor.java:764)
+	at org.eclipse.jdt.internal.ui.javaeditor.ClassFileEditor.createPartControl(ClassFileEditor.java:714)
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:661)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:426)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:592)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:263)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditorBatched(WorkbenchPage.java:2739)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:2651)
+	at org.eclipse.ui.internal.WorkbenchPage.access$13(WorkbenchPage.java:2643)
+	at org.eclipse.ui.internal.WorkbenchPage$10.run(WorkbenchPage.java:2595)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:2590)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:2574)
+	at org.eclipse.debug.internal.ui.sourcelookup.SourceLookupFacility$1.run(SourceLookupFacility.java:355)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.debug.internal.ui.sourcelookup.SourceLookupFacility.openEditor(SourceLookupFacility.java:365)
+	at org.eclipse.debug.internal.ui.sourcelookup.SourceLookupFacility.openEditor(SourceLookupFacility.java:274)
+	at org.eclipse.debug.internal.ui.sourcelookup.SourceLookupFacility.display(SourceLookupFacility.java:218)
+	at org.eclipse.debug.ui.DebugUITools.displaySource(DebugUITools.java:764)
+	at org.eclipse.debug.internal.ui.elements.adapters.StackFrameSourceDisplayAdapter$SourceDisplayJob.runInUIThread(StackFrameSourceDisplayAdapter.java:167)
+	at org.eclipse.ui.progress.UIJob$1.run(UIJob.java:94)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:129)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3659)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3296)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2389)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2353)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2219)
+	at org.eclipse.ui.internal.Workbench$4.run(Workbench.java:466)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:289)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:461)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:106)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:169)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:106)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:76)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:363)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:176)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:592)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:508)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:447)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1173)

@@ -1,0 +1,3 @@
+#Tue Aug 23 13:11:03 CST 2022
+eclipse.preferences.version=1
+org.eclipse.ui.navigator.ProjectExplorer.filterActivation=\:org.eclipse.jdt.java.ui.filters.HideEmptyPackages\:org.eclipse.jdt.java.ui.filters.HideEmptyInnerPackages\:org.eclipse.mylyn.resources.ui.navigator.filters.tasks\:org.eclipse.jdt.java.ui.filters.HideImportDeclaration\:org.eclipse.ui.navigator.resources.filters.startsWithDot\:org.eclipse.ui.navigator.resources.filters.endsWithClass\:org.eclipse.jdt.java.ui.filters.HideSyntheticMembers\:org.eclipse.jst.j2ee.navigator.ui.filters.jetemitters\:org.eclipse.jdt.java.ui.filters.HidePackageDeclaration\:org.eclipse.jdt.java.ui.filters.HideInnerClassFiles\:

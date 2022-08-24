@@ -1,0 +1,14 @@
+package com.net;
+
+import java.net.URL;
+
+import org.apache.commons.io.IOUtils;
+ 
+
+public class HttpUrl {
+public static void main(String[] args) throws Exception{
+	URL url=new URL("http://5.mm");
+	String string=IOUtils.toString(url.openStream());
+	System.out.println(string);
+}
+}

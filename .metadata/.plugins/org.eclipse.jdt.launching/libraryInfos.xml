@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraryInfos>
+<libraryInfo home="D:\tools\europa\jre\jre" version="1.5.0_22">
+<bootpath>
+<entry path="D:\tools\europa\jre\jre\lib\rt.jar"/>
+<entry path="D:\tools\europa\jre\jre\lib\i18n.jar"/>
+<entry path="D:\tools\europa\jre\jre\lib\sunrsasign.jar"/>
+<entry path="D:\tools\europa\jre\jre\lib\jsse.jar"/>
+<entry path="D:\tools\europa\jre\jre\lib\jce.jar"/>
+<entry path="D:\tools\europa\jre\jre\lib\charsets.jar"/>
+<entry path="D:\tools\europa\jre\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\tools\europa\jre\jre\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\tools\europa\jre\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="D:\tools\europa\jre" version="1.5.0_22">
+<bootpath>
+<entry path="D:\tools\europa\jre\jre\lib\rt.jar"/>
+<entry path="D:\tools\europa\jre\jre\lib\i18n.jar"/>
+<entry path="D:\tools\europa\jre\jre\lib\sunrsasign.jar"/>
+<entry path="D:\tools\europa\jre\jre\lib\jsse.jar"/>
+<entry path="D:\tools\europa\jre\jre\lib\jce.jar"/>
+<entry path="D:\tools\europa\jre\jre\lib\charsets.jar"/>
+<entry path="D:\tools\europa\jre\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\tools\europa\jre\jre\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\tools\europa\jre\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
